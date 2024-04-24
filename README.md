@@ -2,7 +2,7 @@
 
 ## About Me
 
-Experienced software engineer with a Computer Science degree from the Federal University of Petroleum Resources. Versatile in prototyping, designing, building, and maintaining scalable and robust software applications. With a diverse and promising skill set, I am able to effectively self-manage during independent projects and collaborate as part of a productive and solution-oriented team.
+I'm an experienced software engineer with a Computer Science degree from the Federal University of Petroleum Resources. Versatile in prototyping, designing, building, and maintaining scalable and robust software applications. With a diverse and promising skill set, I can effectively self-manage during independent projects and collaborate as part of a productive and solution-oriented team.
 
 ## Contact
 
@@ -10,12 +10,13 @@ Experienced software engineer with a Computer Science degree from the Federal Un
 - **Website:** [pastorcode.github.io](https://pastorcode.github.io/) 🌐
 - **LinkedIn:** [linkedin.com/in/pastorcode](https://www.linkedin.com/in/pastorcode/) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)
 
-## Skills
+## Skills/Tech Stacks
 
 ### Back End
 
-- NodeJs (ExpressJS, NestJs, Restify, FeatherJS, Javascript/Typescript)
+- Javascript/Typescript (NodeJs, ExpressJS, NestJs, Restify, FeatherJS)
 - PHP (Laravel)
+- Python (Django, Flask)
 - GraphQL
 
 ### Front End
