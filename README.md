@@ -14,7 +14,7 @@ I'm an experienced software engineer with a Computer Science degree from the Fed
 
 ### Back End
 
-- Javascript/Typescript (NodeJs, ExpressJS, NestJs, Restify, FeatherJS)
+- Javascript/Typescript (NodeJs, ExpressJS, NestJs, Restify, FeatherJS, AdonisJS)
 - PHP (Laravel)
 - Python (Django, Flask)
 - GraphQL
