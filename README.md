@@ -1,5 +1,7 @@
 # Daniel Ijinle-ife, OLUMIDE
 
+![](https://komarev.com/ghpvc/?username=pastorcode&color=blue)
+
 ## About Me
 
 I'm an experienced software engineer with a Computer Science degree from the Federal University of Petroleum Resources. Versatile in prototyping, designing, building, and maintaining scalable and robust software applications. With a diverse and promising skill set, I can effectively self-manage during independent projects and collaborate as part of a productive and solution-oriented team.
